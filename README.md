@@ -47,7 +47,7 @@ Nachdem ich einen tiefen Einblick über Web Development bekommen habe und einige
 <li>Undoing Changes Exercise</li>
 </ul>
 
-<p>Meine Emailadresse: pablofernandez9318@gmail.com</p>
+
 <hr>
 <p><strong>Hi everyone 😃</strong></p>
 <p>I would like to tell you a bit about what I have learnt and done so far.</p>
@@ -95,4 +95,4 @@ After finishing this course and gaining an in-depth insight into web technologie
 <li>Stashing Exercise</li>
 <li>Undoing Changes Exercise</li>
 </ul>
-<p>My email: pablofernandez9318@gmail.com</p>
+
