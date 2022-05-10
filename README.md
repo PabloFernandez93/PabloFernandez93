@@ -60,7 +60,7 @@ After finishing this course and gaining an in-depth insight into web technologie
 <h3>Express + EJS</h3>
 <ul>
   <li>Templating Demo EJS</li>
-  <li>Reddit Demo with Express RESTful Routes</li>
+  <li>Reddit Demo with Express RESTful Routes (https://github.com/PabloFernandez93/reddit-demo-express-restful-routes)</li>
 </ul>
 <h3>Express + EJS + Bootstrap</h3>
 <ul>
