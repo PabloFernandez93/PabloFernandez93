@@ -1,5 +1,5 @@
 <hr>
-<p><strong>Hallo zusammen 😃</strong></p>
+<p><strong>Hallo zusammen :)</strong></p>
 <p>Hier wollte ich einfach ein bisschen davon erzählen, was ich bis jetzt gelernt und gemacht habe.</p>
 <p>Ich habe im Februar 2022 mit einem Web Development Bootcamp Kurs auf Udemy angefangen und ich bin seitdem begeistert von dem Bereich Software Entwicklung.
 Nachdem ich einen tiefen Einblick über Web Development bekommen habe und einige Projekte erstellen konnte habe ich im April 2022 einen Kurs über Git und Github besucht, da diese Technologien auch ganz neu für mich waren und ich habe anschließend mit dem Kurs “Full Stack Engineer” auf Codecademy angefangen, um meine Kenntnisse zu wiederholen und viel Neues zu lernen.</p>
@@ -8,7 +8,7 @@ Nachdem ich einen tiefen Einblick über Web Development bekommen habe und einige
 <p>Hier findet ihr einen kurzen Überblick über meine Projekte. Die vollständigen Projekte sind auf meinem Github Profil.</p>
 
 <hr>
-<p><strong>Hi everyone 😃</strong></p>
+<p><strong>Hi everyone :)</strong></p>
 <p>I would like to tell you a bit about what I have learnt and done so far.</p>
 <p>I started with a web development bootcamp course by Colt Steel on Udemy and since then I am fascinated by these technologies.
 After finishing this course and gaining an in-depth insight into web technologies I took up a Git and Github course on Udemy and after that I started with the course “Full Stack Engineer” on Codecademy in order to refresh my knowledge and learn a lot more about web development.</p>
