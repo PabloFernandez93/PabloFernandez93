@@ -15,40 +15,40 @@ After finishing this course and gaining an in-depth insight into web technologie
 <p>At the moment (may 2022) I am taking up this course on codecademy and I am learning about Vue.js as a javascript framework. I know that I am very new in this field as a career jumper and that I still have to learn a lot and that’s why I am learning everyday (:</p>
 <p>Here you can find a short overview about my projects. You can find all the projects on my github profile.</p>
 
-<h3>HTML Projekte:</h3>
+<h3>HTML Projects:</h3>
 <ul>
-<li>Fashion Blog (Übung mit der HTML Struktur)</li>
-<li>Wine Festival Schedule Table (Übung mit Tabellen)</li>
-<li>New York City Blog (Übung mit HTML Semantics)</li>
+<li>Fashion Blog</li>
+<li>Wine Festival Schedule Table</li>
+<li>New York City Blog</li>
 </ul>
-<h3>CSS Projekte:</h3>
+<h3>CSS Projects:</h3>
 <ul>
 <li>Fancy Button Hover Effect</li>
 <li>Photo Blog Page</li>
 <li>Building a Responsive Nav with Media Queries</li>
-<li>Davie’s Burgers (Übung mit The Box Model)</li>
-<li>Broadway (Übung mit Display und Positioning)</li>
-<li>Morocco Travelling Page (Übung mit Typography)</li>
-<li>The Summit (Übung mit Buttons, Links und Clickability)</li>
+<li>Davie’s Burgers (CSS Box Model)</li>
+<li>Broadway (Display and Positioning)</li>
+<li>Morocco Travelling Page (Typography)</li>
+<li>The Summit (Buttons, Links and Clickability)</li>
 <li>Flexbox To Do App</li> 
 <li>Tea Cozy</li> 
 </ul>
-<h3>CSS Framework: Bootstrap Projekte</h3>
+<h3>CSS Framework: Bootstrap Projects</h3>
 <ul>
 <li>Building a Collapsible Navbar with Bootstrap</li>
-<li>Museum of Mate (Mit HTML, CSS und Bootstrap)</li>
+<li>Museum of Mate (HTML, CSS and Bootstrap)</li>
 </ul>
-<h3>Javascript Projekte:</h3>
+<h3>Javascript Projects:</h3>
 <ul>
 <li>Writing a Guessing Game</li>
-<li>To Do List Projekt</li>
+<li>To Do List Project</li>
 </ul>
-<h3>Javascript + DOM Projekte:</h3>
+<h3>Javascript + DOM Projects:</h3>
 <ul>
 <li>Pokemon Sprites Demo</li>
 <li>Random Colors</li>
 </ul>
-<h3>Web API und Axios</h3>
+<h3>Web API and Axios</h3>
 <ul>
 <li>TVShowSearch</li>
 </ul>
@@ -66,7 +66,7 @@ After finishing this course and gaining an in-depth insight into web technologie
 <ul>
   <li>Templating Demo EJS Partials and Bootstrap </li>
   </ul>
-<h3>Git Übungen:</h3>
+<h3>Git Exercises:</h3>
 <ul>
 <li>Commiting Exercise</li>
 <li>Branching Exercises</li>
