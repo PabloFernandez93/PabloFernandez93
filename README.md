@@ -66,6 +66,57 @@ After finishing this course and gaining an in-depth insight into web technologie
 <ul>
   <li>Templating Demo EJS Partials and Bootstrap </li>
   </ul>
+<h3>Mongoose with Express</h3>
+- Mongoose with Express Basic Setup
+- Creating a Mongoose Model and Seeds File
+- Basic CRUD functionality with Express and Mongoose
+
+<h3>Express Middleware</h3>
+- Defining Custom Express Middleware with Morgan
+- Setting Up a 404 Route and Protecting Specific Routes
+
+<h3>Handling Errors in Express Apps</h3>
+- Defining Custom Error Handlers
+- Handling Async Errors
+
+<h3>Data Relationships With Mongo</h3>
+- Data Relationships With Mongo
+
+<h3>Mongoose Relationships with Express</h3>
+- Interconnecting two related models on an express app
+
+<h3>Express Router</h3>
+- Express Router & Middleware
+
+<h3>Cookies</h3>
+- Cookies demo
+
+<h3>Express Session & Flash</h3>
+- Express Session
+- Flash Demo 
+
+<h3>Authentication</h3>
+- Bcrypt Demo
+- Auth Demo
+
+<h3>YelpCamp Project</h3>
+- 1 Creating the Basic Express and Campground Model Basics
+- 2 Seeding Campgrounds 
+- 3 Creating CRUD Routes
+- 4 Adding Basic Styles
+- 5 Errors and Validating Data
+- 6 Adding The Reviews Model
+- 7 Restructuring and Flash
+- 8 Adding In Authentication
+- 9 Basic Authorization
+- 10 Controllers and Star Ratings
+- 11 Image Upload
+- 12 Adding Maps
+- 13 Fancy Cluster Map
+- 14 Styles Clean Up
+- 15 Common Security Issues
+- 16 Deploying
+  
 <h3>Git Exercises:</h3>
 <ul>
 <li>Commiting Exercise</li>
