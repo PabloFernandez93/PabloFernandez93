@@ -36,7 +36,7 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <li>The Summit (Buttons, Links and Clickability)</li>
 <li>Flexbox To Do App</li> 
 <li>Tea Cozy</li>
-<li>PupSpa</li>
+<li>PupSpa (CSS Grid)</li>
 </ul>
 <h3>CSS Framework: Bootstrap Projects</h3>
 <ul>
