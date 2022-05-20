@@ -67,56 +67,69 @@ After finishing this course and gaining an in-depth insight into web technologie
   <li>Templating Demo EJS Partials and Bootstrap </li>
   </ul>
 <h3>Mongoose with Express</h3>
-- Mongoose with Express Basic Setup
-- Creating a Mongoose Model and Seeds File
-- Basic CRUD functionality with Express and Mongoose
-
+<ul>
+<li>Mongoose with Express Basic Setup</li>
+<li>Creating a Mongoose Model and Seeds File</li>
+<li>Basic CRUD functionality with Express and Mongoose</li>
+</ul>
 <h3>Express Middleware</h3>
-- Defining Custom Express Middleware with Morgan
-- Setting Up a 404 Route and Protecting Specific Routes
-
+<ul>
+<li>Defining Custom Express Middleware with Morgan</li>
+<li>Setting Up a 404 Route and Protecting Specific Routes</li>
+</ul>
 <h3>Handling Errors in Express Apps</h3>
-- Defining Custom Error Handlers
-- Handling Async Errors
-
+<ul>
+<li>Defining Custom Error Handlers</li>
+<li>Handling Async Errors</li>
+</ul>
 <h3>Data Relationships With Mongo</h3>
-- Data Relationships With Mongo
-
+<ul>
+<li>Data Relationships With Mongo</li>
+</ul>
 <h3>Mongoose Relationships with Express</h3>
-- Interconnecting two related models on an express app
-
+<ul>
+<li>Interconnecting two related models on an express app</li>
+</ul>
 <h3>Express Router</h3>
-- Express Router & Middleware
+<ul>
+<li>Express Router & Middleware</li>
+</ul>
 
 <h3>Cookies</h3>
-- Cookies demo
+<ul>
+<li>Cookies demo</li>
+</ul>
 
 <h3>Express Session & Flash</h3>
-- Express Session
-- Flash Demo 
-
+<ul>
+<li>Express Session</li>
+<li>Flash Demo</li>
+</ul>
 <h3>Authentication</h3>
-- Bcrypt Demo
-- Auth Demo
+<ul>
+<li>Bcrypt Demo</li>
+<li>Auth Demo</li>
+</ul>
 
 <h3>YelpCamp Project</h3>
-- 1 Creating the Basic Express and Campground Model Basics
-- 2 Seeding Campgrounds 
-- 3 Creating CRUD Routes
-- 4 Adding Basic Styles
-- 5 Errors and Validating Data
-- 6 Adding The Reviews Model
-- 7 Restructuring and Flash
-- 8 Adding In Authentication
-- 9 Basic Authorization
-- 10 Controllers and Star Ratings
-- 11 Image Upload
-- 12 Adding Maps
-- 13 Fancy Cluster Map
-- 14 Styles Clean Up
-- 15 Common Security Issues
-- 16 Deploying
-  
+<ol>
+<li>Creating the Basic Express and Campground Model Basics</li>
+<li>Seeding Campgrounds</li> 
+<li>Creating CRUD Routes</li>
+<li>Adding Basic Styles</li>
+<li>Errors and Validating Data</li>
+<li>Adding The Reviews Model</li>
+<li>Restructuring and Flash</li>
+<li>Adding In Authentication</li>
+<li>Basic Authorization</li>
+<li>Controllers and Star Ratings</li>
+<li>Image Upload</li>
+<li>Adding Maps</li>
+<li>Fancy Cluster Map</li>
+<li>Styles Clean Up</li>
+<li>Common Security Issues</li>
+<li>Deploying</li>
+</ol>
 <h3>Git Exercises:</h3>
 <ul>
 <li>Commiting Exercise</li>
