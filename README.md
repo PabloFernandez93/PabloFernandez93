@@ -31,7 +31,8 @@ After finishing this course and gaining an in-depth insight into web technologie
 <li>Morocco Travelling Page (Typography)</li>
 <li>The Summit (Buttons, Links and Clickability)</li>
 <li>Flexbox To Do App</li> 
-<li>Tea Cozy</li> 
+<li>Tea Cozy</li>
+<li>PupSpa</li>
 </ul>
 <h3>CSS Framework: Bootstrap Projects</h3>
 <ul>
