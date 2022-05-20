@@ -19,13 +19,13 @@ After finishing this course and gaining an in-depth insight into web technologie
 The YelpCamp App is the biggest project with node, express, mongo, mongoose, javascript, EJS, cloud database and heroku.
 </p>
 
-<h3>HTML Projects:</h3>
+<h3>HTML Projects</h3>
 <ul>
 <li>Fashion Blog</li>
 <li>Wine Festival Schedule Table</li>
 <li>New York City Blog</li>
 </ul>
-<h3>CSS Projects:</h3>
+<h3>CSS Projects</h3>
 <ul>
 <li>Fancy Button Hover Effect</li>
 <li>Photo Blog Page</li>
@@ -43,7 +43,7 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <li>Building a Collapsible Navbar with Bootstrap</li>
 <li>Museum of Mate (HTML, CSS and Bootstrap)</li>
 </ul>
-<h3>Javascript Projects:</h3>
+<h3>Javascript Projects</h3>
 <ul>
 <li>Writing a Guessing Game</li>
 <li>To Do List Project</li>
