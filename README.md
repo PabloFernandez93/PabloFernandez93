@@ -85,7 +85,7 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 </ul>
 <h3>Mongoose Relationships with Express</h3>
 <ul>
-<li>Interconnecting two related models on an express app</li>
+<li>Interconnecting Two Related Models</li>
 </ul>
 <h3>Express Router</h3>
 <ul>
