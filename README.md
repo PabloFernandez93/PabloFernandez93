@@ -47,12 +47,10 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <ul>
 <li>Writing a Guessing Game</li>
 <li>To Do List Project</li>
+<li>Pokemon Sprites Demo (DOM)</li>
+<li>Random Colors (DOM)</li>
 </ul>
-<h3>Javascript + DOM Projects:</h3>
-<ul>
-<li>Pokemon Sprites Demo</li>
-<li>Random Colors</li>
-</ul>
+
 <h3>Web API and Axios</h3>
 <ul>
 <li>TVShowSearch</li>
@@ -61,9 +59,6 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <ul>
   <li>Express Routing Basics</li>
   <li>Express Path Parameters</li>
-</ul>
-<h3>Express + EJS</h3>
-<ul>
   <li>Templating Demo EJS</li>
   <li>Reddit Demo with Express RESTful Route</li>
   <li>Templating Demo EJS Partials and Bootstrap </li>
@@ -94,16 +89,12 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 </ul>
 <h3>Express Router</h3>
 <ul>
-<li>Express Router & Middleware</li>
-</ul>
-
-<h3>Cookies</h3>
-<ul>
-<li>Cookies demo</li>
+<li>Express Router and Middleware</li>
 </ul>
 
 <h3>Express Session & Flash</h3>
 <ul>
+<li>Cookies demo</li>
 <li>Express Session</li>
 <li>Flash Demo</li>
 </ul>
