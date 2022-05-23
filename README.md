@@ -18,7 +18,7 @@ After finishing this course and gaining an in-depth insight into web technologie
 <p>Here you can find a short overview about my projects. You can find all the projects on my github profile.
 The YelpCamp App is the biggest project with node, express, mongo, mongoose, javascript, EJS, cloud database and heroku.
 </p>
-
+<hr>
 <h3>HTML</h3>
 <ul>
 <li>Fashion Blog</li>
