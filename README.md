@@ -53,7 +53,7 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 
 <h3>Web API and Axios</h3>
 <ul>
-<li>TVShowSearch</li>
+<li>TV Show Search</li>
 </ul>
 <h3>Express</h3>
 <ul>
@@ -67,7 +67,7 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <ul>
 <li>Mongoose with Express Basic Setup</li>
 <li>Creating a Mongoose Model and Seeds File</li>
-<li>Basic CRUD functionality with Express and Mongoose</li>
+<li>Basic CRUD Functionality with Express and Mongoose</li>
 </ul>
 <h3>Express Middleware</h3>
 <ul>
@@ -79,9 +79,9 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <li>Defining Custom Error Handlers</li>
 <li>Handling Async Errors</li>
 </ul>
-<h3>Data Relationships With Mongo</h3>
+<h3>Data Relationships with Mongo</h3>
 <ul>
-<li>Data Relationships With Mongo</li>
+<li>Data Relationships with Mongo</li>
 </ul>
 <h3>Mongoose Relationships with Express</h3>
 <ul>
@@ -92,9 +92,9 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <li>Express Router and Middleware</li>
 </ul>
 
-<h3>Express Session & Flash</h3>
+<h3>Express Session and Flash</h3>
 <ul>
-<li>Cookies demo</li>
+<li>Cookies Demo</li>
 <li>Express Session</li>
 <li>Flash Demo</li>
 </ul>
@@ -111,9 +111,9 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <li>Creating CRUD Routes</li>
 <li>Adding Basic Styles</li>
 <li>Errors and Validating Data</li>
-<li>Adding The Reviews Model</li>
+<li>Adding the Reviews Model</li>
 <li>Restructuring and Flash</li>
-<li>Adding In Authentication</li>
+<li>Adding in Authentication</li>
 <li>Basic Authorization</li>
 <li>Controllers and Star Ratings</li>
 <li>Image Upload</li>
