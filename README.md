@@ -59,9 +59,9 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <ul>
   <li>Express Routing Basics</li>
   <li>Express Path Parameters</li>
-  <li>Templating Demo EJS</li>
-  <li>Reddit Demo with Express RESTful Route</li>
-  <li>Templating Demo EJS Partials and Bootstrap </li>
+  <li>Reddit Demo with EJS </li>
+  <li>Reddit Demo with Express RESTful Routes</li>
+  <li>Reddit Demo with EJS Partials and Bootstrap</li>
 </ul>
 <h3>Mongoose with Express</h3>
 <ul>
