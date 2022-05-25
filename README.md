@@ -44,7 +44,7 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <li>Building a Collapsible Navbar with Bootstrap</li>
 <li>Museum of Mate (HTML, CSS and Bootstrap)</li>
 </ul>
-<h3>Javascript</h3>
+<h3>JavaScript</h3>
 <ul>
 <li>Kelvin Weather</li>
 <li>Dog Years</li>
