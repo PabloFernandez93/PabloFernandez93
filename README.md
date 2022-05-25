@@ -33,7 +33,7 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <li>Davie’s Burgers (CSS Box Model)</li>
 <li>Broadway (display and positioning)</li>
 <li>Morocco Travelling Page (typography)</li>
-<li>The Summit (buttons, links and cClickability)</li>
+<li>The Summit (buttons, links and clickability)</li>
 <li>Flexbox To Do App</li> 
 <li>Tea Cozy</li>
 <li>PupSpa (CSS Grid)</li>
