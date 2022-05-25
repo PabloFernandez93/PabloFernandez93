@@ -6,7 +6,7 @@ Nachdem ich einen tiefen Einblick über Web Development bekommen habe und einige
 <p>Ich bin zur Zeit (Stand: Mai 2022) mit diesem Kurs auf Codecademy beschäftigt und ich lerne React als Javascript Framework. Ich weiß, dass ich als Quereinsteiger neu bin und noch viel lernen muss und deswegen lerne ich fleißig jeden Tag (:</p>
 
 <p>Hier findet ihr einen kurzen Überblick über meine Projekte. Die vollständigen Projekte sind auf meinem Github Profil.
-Die YelpCamp App ist das größte Projekt mit Node, Express, Mongo, Mongoose, Javascript, EJS, Cloud Database und Heroku.
+Die YelpCamp App ist das größte Projekt mit Node, Express, Mongo, Mongoose, Javascript, EJS, Cloudinary, einige npm packages und Heroku.
 </p>
 
 <hr>
@@ -16,7 +16,7 @@ Die YelpCamp App ist das größte Projekt mit Node, Express, Mongo, Mongoose, Ja
 After finishing this course and gaining an in-depth insight into web technologies I took up a Git and Github course on Udemy and after that I started with the course “Full Stack Engineer” on Codecademy in order to refresh my knowledge and learn a lot more about web development.</p>
 <p>At the moment (may 2022) I am taking up this course on codecademy and I am learning React as a javascript framework. I know that I am very new in this field as a career jumper and that I still have to learn a lot and that’s why I am learning everyday (:</p>
 <p>Here you can find a short overview about my projects. You can find all the projects on my github profile.
-The YelpCamp App is the biggest project with node, express, mongo, mongoose, javascript, EJS, cloud database and heroku.
+The YelpCamp App is the biggest project with node, express, mongo, mongoose, javascript, EJS, cloudinary, some npm packages and heroku.
 </p>
 <hr>
 <h3>HTML</h3>
@@ -102,6 +102,10 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 </ul>
 
 <h3>YelpCamp Project</h3>
+<h2>
+This App project combines: 
+HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB, Mongoose, EJS, NPM Packages: (method-override, ejs-mate, express-session, connect-flash, passport, passport-local, passport-local-mongoose, multer, dotenv, cloudinary multer-storage-cloudinary, @mapbox/mapbox-sdk, express-mongo-sanitize, sanitize-html, helmet, connect-mongo), Starability CSS, Cloudinary, Mapbox, Mongo Atlas Database and Heroku
+</h2>
 <ol>
 <li>Creating the Basic Express and Campground Model Basics</li>
 <li>Seeding Campgrounds</li> 
