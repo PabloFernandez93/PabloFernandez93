@@ -72,7 +72,8 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <h3>Express Middleware</h3>
 <ul>
 <li>Defining Custom Express Middleware with Morgan</li>
-<li>Setting Up a 404 Route and Protecting Specific Routes</li>
+Setting Up a 404 Route and Protecting Specific Routes</li>
+<li>Express Router and Middleware</li>
 </ul>
 <h3>Handling Errors in Express Apps</h3>
 <ul>
@@ -86,10 +87,6 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <h3>Mongoose Relationships with Express</h3>
 <ul>
 <li>Interconnecting Two Related Models</li>
-</ul>
-<h3>Express Router</h3>
-<ul>
-<li>Express Router and Middleware</li>
 </ul>
 
 <h3>Express Session and Flash</h3>
