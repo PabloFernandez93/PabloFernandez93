@@ -102,10 +102,10 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 </ul>
 
 <h3>YelpCamp Project</h3>
-<h2>
+<p>
 This App project combines: 
 HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB, Mongoose, EJS, NPM Packages: (method-override, ejs-mate, express-session, connect-flash, passport, passport-local, passport-local-mongoose, multer, dotenv, cloudinary multer-storage-cloudinary, @mapbox/mapbox-sdk, express-mongo-sanitize, sanitize-html, helmet, connect-mongo), Starability CSS, Cloudinary, Mapbox, Mongo Atlas Database and Heroku
-</h2>
+</p>
 <ol>
 <li>Creating the Basic Express and Campground Model Basics</li>
 <li>Seeding Campgrounds</li> 
