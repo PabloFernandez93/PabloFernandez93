@@ -48,6 +48,10 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <ul>
 <li>Kelvin Weather</li>
 <li>Dog Years</li>
+<li>Magic Eight Ball Program</li>
+<li>Race Day</li>
+<li>Rock, Paper, or Scissors</li>
+<li>Sleep Debt Calculator</li>
 <li>Number Guessing Game</li>
 <li>To Do List Project</li>
 <li>Pokemon Sprites Demo (DOM)</li>
