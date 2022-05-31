@@ -70,22 +70,22 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
   <li>Reddit Demo with Express RESTful Routes</li>
   <li>Reddit Demo with EJS Partials and Bootstrap</li>
 </ul>
-<h3>Mongoose with Express</h3>
-<ul>
-<li>Mongoose with Express Basic Setup</li>
-<li>Creating a Mongoose Model and Seeds File</li>
-<li>Basic CRUD Functionality with Express and Mongoose</li>
-</ul>
-<h3>Express Middleware</h3>
+<h4>Express Middleware</h3>
 <ul>
 <li>Defining Custom Express Middleware with Morgan</li>
 Setting Up a 404 Route and Protecting Specific Routes</li>
 <li>Express Router and Middleware</li>
 </ul>
-<h3>Handling Errors in Express Apps</h3>
+<h4>Handling Errors in Express Apps</h3>
 <ul>
 <li>Defining Custom Error Handlers</li>
 <li>Handling Async Errors</li>
+</ul>
+<h3>Mongoose with Express</h3>
+<ul>
+<li>Mongoose with Express Basic Setup</li>
+<li>Creating a Mongoose Model and Seeds File</li>
+<li>Basic CRUD Functionality with Express and Mongoose</li>
 </ul>
 <h3>Data Relationships with Mongo</h3>
 <ul>
@@ -95,7 +95,6 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 <ul>
 <li>Interconnecting Two Related Models</li>
 </ul>
-
 <h3>Express Session and Flash</h3>
 <ul>
 <li>Cookies Demo</li>
