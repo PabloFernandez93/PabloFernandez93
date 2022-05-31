@@ -84,12 +84,6 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 <li>Defining Custom Error Handlers</li>
 <li>Handling Async Errors</li>
 </ul>
-
-
-
-
-
-
 <h3>Mongoose with Express</h3>
 <ul>
 <li>Mongoose with Express Basic Setup</li>
@@ -99,13 +93,8 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 <h3>Data Relationships with Mongo</h3>
 <ul>
 <li>Data Relationships with Mongo</li>
+  <li>Interconnecting Two Related Models (Mongoose Relationships with Express)</li>
 </ul>
-<h3>Mongoose Relationships with Express</h3>
-<ul>
-<li>Interconnecting Two Related Models</li>
-</ul>
-
-
 <h3>Authentication</h3>
 <ul>
 <li>Bcrypt Demo</li>
