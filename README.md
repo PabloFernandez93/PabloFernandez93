@@ -56,6 +56,10 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 <li>To Do List Project</li>
 <li>Pokemon Sprites Demo (DOM)</li>
 <li>Random Colors (DOM)</li>
+<li>Whale Talk</li>
+<li>Meal Maker</li>
+<li>Team Stats</li>
+<li>Grammar Checker</li>
 </ul>
 
 <h3>Web API and Axios</h3>
