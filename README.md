@@ -3,9 +3,9 @@
 <p>Hier wollte ich einfach ein bisschen davon erzählen, was ich bis jetzt gelernt und gemacht habe.</p>
 <p>Ich habe im Februar 2022 mit einem Web Development Bootcamp Kurs auf Udemy angefangen und ich bin seitdem begeistert von dem Bereich Software Entwicklung.
 Nachdem ich einen tiefen Einblick über Web Development bekommen habe und einige Projekte erstellen konnte habe ich im April 2022 einen Kurs über Git und Github besucht, da diese Technologien auch ganz neu für mich waren und ich habe anschließend mit dem Kurs “Full Stack Engineer” auf Codecademy angefangen, um meine Kenntnisse zu wiederholen und viel Neues zu lernen.</p>
-<p>Ich bin zur Zeit (Stand: Mai 2022) mit diesem Kurs auf Codecademy beschäftigt und ich lerne React als Javascript Framework. Ich weiß, dass ich als Quereinsteiger neu bin und noch viel lernen muss und deswegen lerne ich fleißig jeden Tag (:</p>
+<p>Ich bin seit Mai mit diesem Kurs auf Codecademy beschäftigt und ich lerne React als Javascript Framework. Ich weiß, dass ich als Quereinsteiger neu bin und noch viel lernen muss und deswegen lerne ich fleißig jeden Tag (:</p>
 
-<p>Hier findet ihr einen kurzen Überblick über meine Projekte. Die vollständigen Projekte sind auf meinem Github Profil.
+<p>Hier findet ihr einen kurzen Überblick über meine Projekte. Die vollständigen Projekte sind  auf meinem Github Profil.
 Die YelpCamp App ist das größte Projekt mit Node, Express, Mongo, Mongoose, Javascript, EJS, Cloudinary, einige npm packages und Heroku.
 </p>
 
@@ -14,7 +14,7 @@ Die YelpCamp App ist das größte Projekt mit Node, Express, Mongo, Mongoose, Ja
 <p>I would like to tell you a bit about what I have learnt and done so far.</p>
 <p>I started with a web development bootcamp course by Colt Steel on Udemy and since then I am fascinated by these technologies.
 After finishing this course and gaining an in-depth insight into web technologies I took up a Git and Github course on Udemy and after that I started with the course “Full Stack Engineer” on Codecademy in order to refresh my knowledge and learn a lot more about web development.</p>
-<p>At the moment (may 2022) I am taking up this course on codecademy and I am learning React as a javascript framework. I know that I am very new in this field as a career jumper and that I still have to learn a lot and that’s why I am learning everyday (:</p>
+<p>Since may I've been taking up this course on codecademy and I am learning React as a javascript framework. I know that I am very new in this field as a career jumper and that I still have to learn a lot and that’s why I am learning everyday (:</p>
 <p>Here you can find a short overview about my projects. You can find all the projects on my github profile.
 The YelpCamp App is the biggest project with node, express, mongo, mongoose, javascript, EJS, cloudinary, some npm packages and heroku.
 </p>
