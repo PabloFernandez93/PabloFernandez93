@@ -20,7 +20,7 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 </p>
 <hr>
 <h3>HTML</h3>
-* Fashion Blog - * Wine Festival Schedule Table - * New York City Blog
+<li>Fashion Blog</li> - <li>Wine Festival Schedule Table</li> - <li>New York City Blog</li>
 
 <h3>CSS</h3>
 <ul>
