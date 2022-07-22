@@ -139,3 +139,16 @@ HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB, Mongoose, EJS, NPM 
 <li>Stashing Exercise</li>
 <li>Undoing Changes Exercise</li>
 </ul>
+
+<h3>React</h3>
+<ul>
+<li>Expense tracker app</li>
+<ol> 
+<li>Basics and working with components</li>
+<li>State and working with events</li>
+<li>Rendering lists and conditional content</li>
+
+<li>Course goals React app</li>
+
+<li>Add users React app</li>
+</ul>
