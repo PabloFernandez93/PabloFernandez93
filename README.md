@@ -20,10 +20,26 @@ The YelpCamp App is the biggest project with node, express, mongo, mongoose, jav
 </p>
 <hr>
 <h3>HTML</h3>
-Fashion Blog <strong>-</strong> Wine Festival Schedule Table <strong>-</strong> New York City Blog
+<ul>
+<li>Fashion Blog</li> 
+<li>Wine Festival Schedule Table</li>
+<li>New York City Blog</li>
+</ul>
 
 <h3>CSS</h3>
-Fancy Button Hover Effect <strong>-</strong> Photo Blog Page <strong>-</strong> Building a Responsive Nav with Media Queries <strong>-</strong> Davie’s Burgers (CSS Box Model) <strong>-</strong> Broadway (display and positioning) <strong>-</strong> Morocco Travelling Page (typography) <strong>-</strong> The Summit (buttons, links and clickability) <strong>-</strong> Flexbox To Do App <strong>-</strong> Tea Cozy <strong>-</strong> PupSpa (CSS Grid) <strong>-</strong> Tsunami Coffee (media queries)
+<ul>
+<li>Fancy Button Hover Effect</li>
+<li>Photo Blog Page</li>
+<li>Building a Responsive Nav with Media Queries</li>
+<li>Davie’s Burgers (CSS Box Model)</li>
+<li>Broadway (display and positioning)</li>
+<li>Morocco Travelling Page (typography)</li>
+<li>The Summit (buttons, links and clickability)</li>
+<li>Flexbox To Do App</li>
+<li>Tea Cozy</li>
+<li>PupSpa (CSS Grid)</li>
+<li>Tsunami Coffee (media queries)</li>
+</ul>
 
 <h3>CSS Framework: Bootstrap</h3>
 <ul>
