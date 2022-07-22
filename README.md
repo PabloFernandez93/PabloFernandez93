@@ -147,7 +147,7 @@ HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB, Mongoose, EJS, NPM 
 <li>Basics and working with components</li>
 <li>State and working with events</li>
 <li>Rendering lists and conditional content</li>
-
+</ol> 
 <li>Course goals React app</li>
 
 <li>Add users React app</li>
