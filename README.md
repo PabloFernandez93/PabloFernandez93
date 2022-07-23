@@ -22,10 +22,10 @@ After finishing this course and gaining an in-depth insight into web technologie
 <ol> 
 <li>Basics and Working with Components</li>
 <li>State and Working with Events</li>
-<li>Rendering Lists and Conditional Content</li>
+<li>Rendering Lists and Conditional Content (finished app)</li>
 </ol> 
 <li>Course Goals React App</li>
-<li>Add Users React app</li>
+<li>Add Users React App</li>
 </ul>
 
 <h3>YelpCamp Project</h3>
@@ -45,7 +45,7 @@ After finishing this course and gaining an in-depth insight into web technologie
 <li>Fancy Cluster Map</li>
 <li>Styles Clean Up</li>
 <li>Common Security Issues</li>
-<li>Deploying (Finished)</li>
+<li>Deploying (finished app)</li>
 </ol>
 
 <h3>Data Relationships with Mongo</h3>
