@@ -18,21 +18,17 @@ After finishing this course and gaining an in-depth insight into web technologie
 
 <h3>React</h3>
 <ul>
-<li>Expense tracker app</li>
+<li>Expense Tracker React App</li>
 <ol> 
-<li>Basics and working with components</li>
-<li>State and working with events</li>
-<li>Rendering lists and conditional content</li>
+<li>Basics and Working with Components</li>
+<li>State and Working with Events</li>
+<li>Rendering Lists and Conditional Content</li>
 </ol> 
-<li>Course goals React app</li>
-<li>Add users React app</li>
+<li>Course Goals React App</li>
+<li>Add Users React app</li>
 </ul>
 
 <h3>YelpCamp Project</h3>
-<p>
-This App project combines: 
-HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB, Mongoose, EJS, NPM Packages: (method-override, ejs-mate, express-session, connect-flash, passport, passport-local, passport-local-mongoose, multer, dotenv, cloudinary multer-storage-cloudinary, @mapbox/mapbox-sdk, express-mongo-sanitize, sanitize-html, helmet, connect-mongo), Starability CSS, Cloudinary, Mapbox, Mongo Atlas Database and Heroku
-</p>
 <ol>
 <li>Creating the Basic Express and Campground Model Basics</li>
 <li>Seeding Campgrounds</li> 
@@ -49,7 +45,7 @@ HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB, Mongoose, EJS, NPM 
 <li>Fancy Cluster Map</li>
 <li>Styles Clean Up</li>
 <li>Common Security Issues</li>
-<li>Deploying</li>
+<li>Deploying (Finished)</li>
 </ol>
 
 <h3>Data Relationships with Mongo</h3>
