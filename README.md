@@ -45,7 +45,7 @@ After finishing this course and gaining an in-depth insight into web technologie
 <li>Fancy Cluster Map</li>
 <li>Styles Clean Up</li>
 <li>Common Security Issues</li>
-<li>Deploying (finished app)</li>
+<li>Deploying YelpCamp App (finished)</li>
 </ol>
 
 <h3>Data Relationships with Mongo</h3>
