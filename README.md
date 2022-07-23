@@ -19,98 +19,17 @@ After finishing this course and gaining an in-depth insight into web technologie
 The YelpCamp App is the biggest project with node, express, mongo, mongoose, javascript, EJS, cloudinary, some NPM packages and heroku.
 </p>
 <hr>
-<h3>HTML</h3>
-<ul>
-<li>Fashion Blog</li> 
-<li>Wine Festival Schedule Table</li>
-<li>New York City Blog</li>
-  <li>HTML Forms</li>
-</ul>
 
-<h3>CSS</h3>
+<h3>React</h3>
 <ul>
-<li>Fancy Button Hover Effect</li>
-<li>Photo Blog Page</li>
-<li>Building a Responsive Nav with Media Queries</li>
-<li>Davie’s Burgers (CSS Box Model)</li>
-<li>Broadway (display and positioning)</li>
-<li>Morocco Travelling Page (typography)</li>
-<li>The Summit (buttons, links and clickability)</li>
-<li>Flexbox To Do App</li>
-<li>Tea Cozy</li>
-<li>PupSpa (CSS Grid)</li>
-<li>Tsunami Coffee (media queries)</li>
-</ul>
-
-<h3>CSS Framework: Bootstrap</h3>
-<ul>
-<li>Building a Collapsible Navbar with Bootstrap</li>
-<li>Museum of Mate (HTML, CSS and Bootstrap)</li>
-</ul>
-<h3>JavaScript</h3>
-<ul>
-<li>Kelvin Weather</li>
-<li>Dog Years</li>
-<li>Magic Eight Ball Program</li>
-<li>Race Day</li>
-<li>Rock, Paper, or Scissors</li>
-<li>Sleep Debt Calculator</li>
-<li>Number Guessing Game</li>
-<li>To Do List Project</li>
-<li>Pokemon Sprites Demo (DOM)</li>
-<li>Random Colors (DOM)</li>
-<li>Whale Talk</li>
-<li>Meal Maker</li>
-<li>Team Stats</li>
-<li>Grammar Checker</li>
-<li>Event handlers</li>
-<li>Generating random colors</li>
-<li>Dribbling ball</li>
-<li>Mouse events</li>
-<li>Piano keys</li>
-</ul>
-
-<h3>Web API and Axios</h3>
-<ul>
-<li>TV Show Search</li>
-</ul>
-<h3>Express</h3>
-<ul>
-  <li>Express Routing Basics</li>
-  <li>Express Path Parameters</li>
-  <li>Reddit Demo with EJS </li>
-  <li>Reddit Demo with Express RESTful Routes</li>
-  <li>Reddit Demo with EJS Partials and Bootstrap</li>
-</ul>
-<h5>Express Middleware</h3>
-<ul>
-<li>Defining Custom Express Middleware with Morgan</li>
-Setting Up a 404 Route and Protecting Specific Routes</li>
-<li>Express Router and Middleware</li>
-<li>Cookies Demo</li>
-<li>Express Session</li>
-<li>Flash Demo</li>
-</ul>
-<h5>Handling Errors in Express Apps</h3>
-<ul>
-<li>Defining Custom Error Handlers</li>
-<li>Handling Async Errors</li>
-</ul>
-<h3>Mongoose with Express</h3>
-<ul>
-<li>Mongoose with Express Basic Setup</li>
-<li>Creating a Mongoose Model and Seeds File</li>
-<li>Basic CRUD Functionality with Express and Mongoose</li>
-</ul>
-<h3>Data Relationships with Mongo</h3>
-<ul>
-<li>Data Relationships with Mongo</li>
-  <li>Interconnecting Two Related Models (Mongoose Relationships with Express)</li>
-</ul>
-<h3>Authentication</h3>
-<ul>
-<li>Bcrypt Demo</li>
-<li>Auth Demo</li>
+<li>Expense tracker app</li>
+<ol> 
+<li>Basics and working with components</li>
+<li>State and working with events</li>
+<li>Rendering lists and conditional content</li>
+</ol> 
+<li>Course goals React app</li>
+<li>Add users React app</li>
 </ul>
 
 <h3>YelpCamp Project</h3>
@@ -136,6 +55,105 @@ HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB, Mongoose, EJS, NPM 
 <li>Common Security Issues</li>
 <li>Deploying</li>
 </ol>
+
+<h3>Data Relationships with Mongo</h3>
+<ul>
+<li>Data Relationships with Mongo</li>
+  <li>Interconnecting Two Related Models (Mongoose Relationships with Express)</li>
+</ul>
+<h3>Authentication</h3>
+<ul>
+<li>Bcrypt Demo</li>
+<li>Auth Demo</li>
+</ul>
+
+<h3>Mongoose with Express</h3>
+<ul>
+<li>Mongoose with Express Basic Setup</li>
+<li>Creating a Mongoose Model and Seeds File</li>
+<li>Basic CRUD Functionality with Express and Mongoose</li>
+</ul>
+
+<h3>Express</h3>
+<ul>
+  <li>Express Routing Basics</li>
+  <li>Express Path Parameters</li>
+  <li>Reddit Demo with EJS </li>
+  <li>Reddit Demo with Express RESTful Routes</li>
+  <li>Reddit Demo with EJS Partials and Bootstrap</li>
+</ul>
+<h5>Express Middleware</h3>
+<ul>
+<li>Defining Custom Express Middleware with Morgan</li>
+Setting Up a 404 Route and Protecting Specific Routes</li>
+<li>Express Router and Middleware</li>
+<li>Cookies Demo</li>
+<li>Express Session</li>
+<li>Flash Demo</li>
+</ul>
+<h5>Handling Errors in Express Apps</h3>
+<ul>
+<li>Defining Custom Error Handlers</li>
+<li>Handling Async Errors</li>
+</ul>
+
+<h3>Web API and Axios</h3>
+<ul>
+<li>TV Show Search</li>
+</ul>
+
+<h3>JavaScript</h3>
+<ul>
+<li>Kelvin Weather</li>
+<li>Dog Years</li>
+<li>Magic Eight Ball Program</li>
+<li>Race Day</li>
+<li>Rock, Paper, or Scissors</li>
+<li>Sleep Debt Calculator</li>
+<li>Number Guessing Game</li>
+<li>To Do List Project</li>
+<li>Pokemon Sprites Demo (DOM)</li>
+<li>Random Colors (DOM)</li>
+<li>Whale Talk</li>
+<li>Meal Maker</li>
+<li>Team Stats</li>
+<li>Grammar Checker</li>
+<li>Event handlers</li>
+<li>Generating random colors</li>
+<li>Dribbling ball</li>
+<li>Mouse events</li>
+<li>Piano keys</li>
+</ul>
+
+<h3>CSS Framework: Bootstrap</h3>
+<ul>
+<li>Building a Collapsible Navbar with Bootstrap</li>
+<li>Museum of Mate (HTML, CSS and Bootstrap)</li>
+</ul>
+
+<h3>CSS</h3>
+<ul>
+<li>Fancy Button Hover Effect</li>
+<li>Photo Blog Page</li>
+<li>Building a Responsive Nav with Media Queries</li>
+<li>Davie’s Burgers (CSS Box Model)</li>
+<li>Broadway (display and positioning)</li>
+<li>Morocco Travelling Page (typography)</li>
+<li>The Summit (buttons, links and clickability)</li>
+<li>Flexbox To Do App</li>
+<li>Tea Cozy</li>
+<li>PupSpa (CSS Grid)</li>
+<li>Tsunami Coffee (media queries)</li>
+</ul>
+
+<h3>HTML</h3>
+<ul>
+<li>Fashion Blog</li> 
+<li>Wine Festival Schedule Table</li>
+<li>New York City Blog</li>
+<li>HTML Forms</li>
+</ul>
+
 <h3>Git Exercises:</h3>
 <ul>
 <li>Commiting Exercise</li>
@@ -145,17 +163,4 @@ HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB, Mongoose, EJS, NPM 
 <li>Stashing Exercise</li>
 <li>Undoing Changes Exercise</li>
 <li>Manhattan Zoo</li>   
-</ul>
-
-<h3>React</h3>
-<ul>
-<li>Expense tracker app</li>
-<ol> 
-<li>Basics and working with components</li>
-<li>State and working with events</li>
-<li>Rendering lists and conditional content</li>
-</ol> 
-<li>Course goals React app</li>
-
-<li>Add users React app</li>
 </ul>
