@@ -27,44 +27,41 @@ After finishing this course and gaining an in-depth insight into web technologie
 <ul>
 <li>Fancy Button Hover Effect</li>
 <li>Photo Blog Page</li>
-<li>Building a Responsive Nav with Media Queries</li>
+<li>Responsive Navbar</li>
 <li>Davie’s Burgers (CSS Box Model)</li>
-<li>Broadway (display and positioning)</li>
-<li>Morocco Travelling Page (typography)</li>
-<li>The Summit (buttons, links and clickability)</li>
-<li>Flexbox To Do App</li>
+<li>Broadway (Display and Layout)</li>
+<li>The Summit (Buttons, Links and Clickability)</li>
+<li>To Do List Page (CSS Flexbox)</li>
 <li>Tea Cozy</li>
-<li>PupSpa (CSS Grid)</li>
+<li>Puppy Spa (CSS Grid)</li>
 <li>Tsunami Coffee (media queries)</li>
 </ul>
 
 <h3>CSS Framework: Bootstrap</h3>
 <ul>
-<li>Building a Collapsible Navbar with Bootstrap</li>
-<li>Museum of Mate (HTML, CSS and Bootstrap)</li>
+<li>Collapsible Navbar with Bootstrap</li>
+<li>Museum of Mate</li>
 </ul>
 
 <h3>JavaScript</h3>
 <ul>
 <li>Kelvin Weather</li>
 <li>Dog Years</li>
-<li>Magic Eight Ball Program</li>
+<li>Magic Eight Ball</li>
 <li>Race Day</li>
 <li>Rock, Paper, or Scissors</li>
 <li>Sleep Debt Calculator</li>
 <li>Number Guessing Game</li>
 <li>To Do List Project</li>
-<li>Pokemon Sprites Demo (DOM)</li>
-<li>Random Colors (DOM)</li>
+<li>Pokemon Sprites Demo</li>
+<li>Random Colors Generator</li>
 <li>Whale Talk</li>
 <li>Meal Maker</li>
 <li>Team Stats</li>
 <li>Grammar Checker</li>
-<li>Event handlers</li>
-<li>Generating random colors</li>
-<li>Dribbling ball</li>
-<li>Mouse events</li>
-<li>Piano keys</li>
+<li>Event Handlers</li>
+<li>Dribbling Ball</li>
+<li>Piano Keys</li>
 </ul>
 
 <h3>Web API and Axios</h3>
@@ -130,7 +127,7 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 <li>Fancy Cluster Map</li>
 <li>Styles Clean Up</li>
 <li>Common Security Issues</li>
-<li>Deploying YelpCamp App (finished)</li>
+<li>Deploying YelpCamp App (Finished)</li>
 </ol>
 
 <h3>Git Exercises:</h3>
@@ -150,7 +147,7 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 <ol> 
 <li>Basics and Working with Components</li>
 <li>State and Working with Events</li>
-<li>Rendering Lists and Conditional Content (finished app)</li>
+<li>Rendering Lists and Conditional Content (Finished App)</li>
 </ol> 
 <li>Course Goals React App</li>
 <li>Add Users React App</li>
