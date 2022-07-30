@@ -59,7 +59,7 @@ After finishing this course and gaining an in-depth insight into web technologie
 <li>Meal Maker</li>
 <li>Team Stats</li>
 <li>Grammar Checker</li>
-<li>Event Handlers</li>
+<li>Mouse Events</li>
 <li>Dribbling Ball</li>
 <li>Piano Keys</li>
 </ul>
