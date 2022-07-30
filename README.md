@@ -54,7 +54,7 @@ After finishing this course and gaining an in-depth insight into web technologie
 <li>Number Guessing Game</li>
 <li>To Do List Project</li>
 <li>Pokemon Sprites Demo</li>
-<li>Random Colors Generator</li>
+<li>Random Color Generator</li>
 <li>Whale Talk</li>
 <li>Meal Maker</li>
 <li>Team Stats</li>
