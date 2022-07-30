@@ -156,3 +156,13 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 <li>Undoing Changes Exercise</li>
 <li>Manhattan Zoo</li>   
 </ul>
+
+
+
+<h3>HTML</h3>						              <h3>CSS</h3>
+<ul>							                    <ul>
+<li>Fashion Blog</li> 					      <li>Fancy Button Hover Effect</li>
+<li>Wine Festival Schedule Table</li>	<li>Photo Blog Page</li>
+<li>New York City Blog</li>				    <li>Building a Responsive Nav with Media Queries</li>
+<li>HTML Forms</li>					          <li>Davie’s Burgers (CSS Box Model)</li>
+</ul>							                    </ul>
