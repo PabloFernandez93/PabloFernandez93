@@ -15,83 +15,33 @@ After finishing this course and gaining an in-depth insight into web technologie
 <p>Since may I've been taking up this course on codecademy and I am learning React as a javascript framework. I know that I am very new in this field as a career jumper and that I still have a lot to learn and that’s why I am learning everyday and I am looking forward to my career start in IT (:</p>
 <p>Here you can find an overview of my projects. You can find all the projects and exercises on my github profile.</p>
 <hr>
+<h3>HTML</h3>						
+<ul>							
+<li>Fashion Blog</li> 					
+<li>Wine Festival Schedule Table</li>			
+<li>New York City Blog</li>				
+<li>HTML Forms</li>					
+</ul>							
 
-<h3>React</h3>
+<h3>CSS</h3>
 <ul>
-<li>Expense Tracker React App</li>
-<ol> 
-<li>Basics and Working with Components</li>
-<li>State and Working with Events</li>
-<li>Rendering Lists and Conditional Content (finished app)</li>
-</ol> 
-<li>Course Goals React App</li>
-<li>Add Users React App</li>
-</ul>
-
-<h3>YelpCamp Project</h3>
-<ol>
-<li>Creating the Basic Express and Campground Model Basics</li>
-<li>Seeding Campgrounds</li> 
-<li>Creating CRUD Routes</li>
-<li>Adding Basic Styles</li>
-<li>Errors and Validating Data</li>
-<li>Adding the Reviews Model</li>
-<li>Restructuring and Flash</li>
-<li>Adding in Authentication</li>
-<li>Basic Authorization</li>
-<li>Controllers and Star Ratings</li>
-<li>Image Upload</li>
-<li>Adding Maps</li>
-<li>Fancy Cluster Map</li>
-<li>Styles Clean Up</li>
-<li>Common Security Issues</li>
-<li>Deploying YelpCamp App (finished)</li>
-</ol>
-
-<h3>Data Relationships with Mongo</h3>
-<ul>
-<li>Data Relationships with Mongo</li>
-  <li>Interconnecting Two Related Models (Mongoose Relationships with Express)</li>
-</ul>
-<h3>Authentication</h3>
-<ul>
-<li>Bcrypt Demo</li>
-<li>Auth Demo</li>
+<li>Fancy Button Hover Effect</li>
+<li>Photo Blog Page</li>
+<li>Building a Responsive Nav with Media Queries</li>
+<li>Davie’s Burgers (CSS Box Model)</li>
+<li>Broadway (display and positioning)</li>
+<li>Morocco Travelling Page (typography)</li>
+<li>The Summit (buttons, links and clickability)</li>
+<li>Flexbox To Do App</li>
+<li>Tea Cozy</li>
+<li>PupSpa (CSS Grid)</li>
+<li>Tsunami Coffee (media queries)</li>
 </ul>
 
-<h3>Mongoose with Express</h3>
+<h3>CSS Framework: Bootstrap</h3>
 <ul>
-<li>Mongoose with Express Basic Setup</li>
-<li>Creating a Mongoose Model and Seeds File</li>
-<li>Basic CRUD Functionality with Express and Mongoose</li>
-</ul>
-
-<h3>Express</h3>
-<ul>
-  <li>Express Routing Basics</li>
-  <li>Express Path Parameters</li>
-  <li>Reddit Demo with EJS </li>
-  <li>Reddit Demo with Express RESTful Routes</li>
-  <li>Reddit Demo with EJS Partials and Bootstrap</li>
-</ul>
-<h5>Express Middleware</h3>
-<ul>
-<li>Defining Custom Express Middleware with Morgan</li>
-Setting Up a 404 Route and Protecting Specific Routes</li>
-<li>Express Router and Middleware</li>
-<li>Cookies Demo</li>
-<li>Express Session</li>
-<li>Flash Demo</li>
-</ul>
-<h5>Handling Errors in Express Apps</h3>
-<ul>
-<li>Defining Custom Error Handlers</li>
-<li>Handling Async Errors</li>
-</ul>
-
-<h3>Web API and Axios</h3>
-<ul>
-<li>TV Show Search</li>
+<li>Building a Collapsible Navbar with Bootstrap</li>
+<li>Museum of Mate (HTML, CSS and Bootstrap)</li>
 </ul>
 
 <h3>JavaScript</h3>
@@ -117,34 +67,71 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 <li>Piano keys</li>
 </ul>
 
-<h3>CSS Framework: Bootstrap</h3>
+<h3>Web API and Axios</h3>
 <ul>
-<li>Building a Collapsible Navbar with Bootstrap</li>
-<li>Museum of Mate (HTML, CSS and Bootstrap)</li>
+<li>TV Show Search</li>
 </ul>
 
-<h3>CSS</h3>
+<h3>Express</h3>
 <ul>
-<li>Fancy Button Hover Effect</li>
-<li>Photo Blog Page</li>
-<li>Building a Responsive Nav with Media Queries</li>
-<li>Davie’s Burgers (CSS Box Model)</li>
-<li>Broadway (display and positioning)</li>
-<li>Morocco Travelling Page (typography)</li>
-<li>The Summit (buttons, links and clickability)</li>
-<li>Flexbox To Do App</li>
-<li>Tea Cozy</li>
-<li>PupSpa (CSS Grid)</li>
-<li>Tsunami Coffee (media queries)</li>
+  <li>Express Routing Basics</li>
+  <li>Express Path Parameters</li>
+  <li>Reddit Demo with EJS </li>
+  <li>Reddit Demo with Express RESTful Routes</li>
+  <li>Reddit Demo with EJS Partials and Bootstrap</li>
+</ul>
+<h5>Express Middleware</h3>
+<ul>
+<li>Defining Custom Express Middleware with Morgan</li>
+Setting Up a 404 Route and Protecting Specific Routes</li>
+<li>Express Router and Middleware</li>
+<li>Cookies Demo</li>
+<li>Express Session</li>
+<li>Flash Demo</li>
+</ul>
+<h5>Handling Errors in Express Apps</h3>
+<ul>
+<li>Defining Custom Error Handlers</li>
+<li>Handling Async Errors</li>
 </ul>
 
-<h3>HTML</h3>
+<h3>Mongoose with Express</h3>
 <ul>
-<li>Fashion Blog</li> 
-<li>Wine Festival Schedule Table</li>
-<li>New York City Blog</li>
-<li>HTML Forms</li>
+<li>Mongoose with Express Basic Setup</li>
+<li>Creating a Mongoose Model and Seeds File</li>
+<li>Basic CRUD Functionality with Express and Mongoose</li>
 </ul>
+
+<h3>Data Relationships with Mongo</h3>
+<ul>
+<li>Data Relationships with Mongo</li>
+  <li>Interconnecting Two Related Models (Mongoose Relationships with Express)</li>
+</ul>
+<h3>Authentication</h3>
+<ul>
+<li>Bcrypt Demo</li>
+<li>Auth Demo</li>
+</ul>
+
+<h3>YelpCamp Project</h3>
+<ol>
+<li>Creating the Basic Express and Campground Model Basics</li>
+<li>Seeding Campgrounds</li> 
+<li>Creating CRUD Routes</li>
+<li>Adding Basic Styles</li>
+<li>Errors and Validating Data</li>
+<li>Adding the Reviews Model</li>
+<li>Restructuring and Flash</li>
+<li>Adding in Authentication</li>
+<li>Basic Authorization</li>
+<li>Controllers and Star Ratings</li>
+<li>Image Upload</li>
+<li>Adding Maps</li>
+<li>Fancy Cluster Map</li>
+<li>Styles Clean Up</li>
+<li>Common Security Issues</li>
+<li>Deploying YelpCamp App (finished)</li>
+</ol>
 
 <h3>Git Exercises:</h3>
 <ul>
@@ -157,12 +144,14 @@ Setting Up a 404 Route and Protecting Specific Routes</li>
 <li>Manhattan Zoo</li>   
 </ul>
 
-
-
-<h3>HTML</h3>						              <h3>CSS</h3>
-<ul>							                    <ul>
-<li>Fashion Blog</li> 					      <li>Fancy Button Hover Effect</li>
-<li>Wine Festival Schedule Table</li>	<li>Photo Blog Page</li>
-<li>New York City Blog</li>				    <li>Building a Responsive Nav with Media Queries</li>
-<li>HTML Forms</li>					          <li>Davie’s Burgers (CSS Box Model)</li>
-</ul>							                    </ul>
+<h3>React</h3>
+<ul>
+<li>Expense Tracker React App</li>
+<ol> 
+<li>Basics and Working with Components</li>
+<li>State and Working with Events</li>
+<li>Rendering Lists and Conditional Content (finished app)</li>
+</ol> 
+<li>Course Goals React App</li>
+<li>Add Users React App</li>
+</ul>
